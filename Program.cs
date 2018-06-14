@@ -74,7 +74,7 @@ class Program
         
         break;
       }
-      Console.WriteLine("Try harder to enter it correctly this time!");
+      Console.WriteLine("Enter the correct value!");
       }
     }
   }
